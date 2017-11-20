@@ -1,0 +1,25 @@
+{
+  "name": "aws-node-lambda-samples",
+  "version": "1.0.0",
+  "description": "Sample Node AWS samples",
+  "main": "run_action.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxai/aws-node-lambda-samples.git"
+  },
+  "keywords": [
+    "aws.",
+    "lambda",
+    "samples",
+    "node"
+  ],
+  "author": "Pello Altadill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxai/aws-node-lambda-samples/issues"
+  },
+  "homepage": "https://github.com/pxai/aws-node-lambda-samples#readme"
+}
